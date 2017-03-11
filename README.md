@@ -1,24 +1,20 @@
-# README
+# Finance Tracker Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ - Aplicação do curso de ruby on rails da udemy  _:D_
 
-Things you may want to cover:
+ #### Ruby version:
+ * Ruby 2.3.1p112 (2016-04-26 revision 54768) [x86_64-linux]
 
-* Ruby version
+ #### System dependencies:
 
-* System dependencies
+ #### Configuration:
 
-* Configuration
+ #### Database creation:
 
-* Database creation
+ #### Database initialization:
 
-* Database initialization
+ #### How to run the test suite:
 
-* How to run the test suite
+ #### Services (job queues, cache servers, search engines, etc.):
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ #### Deployment instructions:
