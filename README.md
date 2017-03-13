@@ -1,20 +1,21 @@
 # Finance Tracker Applicationmm
 
-  Aplicação do curso de ruby on rails da udemy  
+## Aplicação do curso de ruby on rails da udemy
 
- #### Ruby version:
- * Ruby 2.3.1p112 (2016-04-26 revision 54768) [x86_64-linux]
+### Ruby version:
 
- #### System dependencies:
+- Ruby 2.3.1p112 (2016-04-26 revision 54768) [x86_64-linux]
 
- #### Configuration:
+### System dependencies:
 
- #### Database creation:
+### Configuration:
 
- #### Database initialization:
+### Database creation:
 
- #### How to run the test suite:
+### Database initialization:
 
- #### Services (job queues, cache servers, search engines, etc.):
+### How to run the test suite:
 
- #### Deployment instructions:
+### Services (job queues, cache servers, search engines, etc.):
+
+### Deployment instructions:
