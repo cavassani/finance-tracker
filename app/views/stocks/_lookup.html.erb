@@ -3,10 +3,10 @@
   <!-- remote:true -> inform que será feita requisição ajax -->
   <%= form_tag search_stocks_path, remote:true, method: :get,
                                  id: 'stock-lookup-form' do %>
-  <div class="form-group row nopadding text-center col-md-12">
+  <div class="form-group row no-padding text-center col-md-12">
     <div class="col-md-10">
       <%= text_field_tag :stock, params[:stock],
-         placeholder: "Stockticker symbol", autofocus: true,
+         placeholder: "Stock Ticker Symbol", autofocus: true,
                   class: 'form-control search-box input-lg' %>
     </div>
     <div class="col-md-2">
@@ -25,8 +25,5 @@
     <strong>Price:</strong><%= @stock.price %>
   </div>
   <% end %>
-  <div class="stock-lookup-errors">
-
-  </div>
-
+  <div class="stock-lookup-errors"></div>
 </div>
