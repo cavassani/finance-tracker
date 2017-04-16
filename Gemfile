@@ -15,6 +15,8 @@ gem 'devise', '~> 4.2'
 gem 'twitter-bootstrap-rails'
 #devise-bootstrap-views
 gem 'devise-bootstrap-views'
+#font awesome rails 
+gem "font-awesome-rails"
 #stock_quote
 gem 'stock_quote'
 # Use Puma as the app server
